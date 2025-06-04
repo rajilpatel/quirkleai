@@ -1,1 +1,4 @@
-# generate_jitsi_room_name function
+import uuid
+
+def generate_jitsi_room_name():
+    return uuid.uuid4().hex

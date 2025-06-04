@@ -1,0 +1,1 @@
+# Config to start scheduler on app ready

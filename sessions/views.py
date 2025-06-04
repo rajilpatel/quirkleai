@@ -1,0 +1,1 @@
+# TherapySessionViewSet with join_url

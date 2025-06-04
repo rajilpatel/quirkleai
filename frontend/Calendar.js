@@ -1,0 +1,1 @@
+// FullCalendar component (React)

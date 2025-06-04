@@ -1,0 +1,1 @@
+# Django settings including all apps

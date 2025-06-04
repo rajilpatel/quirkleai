@@ -1,0 +1,1 @@
+# Signal to create notifications when sessions are booked

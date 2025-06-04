@@ -1,0 +1,1 @@
+# TherapyNote model for SOAP/DAP/Freeform
